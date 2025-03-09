@@ -1,0 +1,7 @@
+{
+  "name": "Muadhin",
+  "description": "Muadhin is a GNOME extension designed to provide automatic Athan (Islamic call to prayer) notifications based on your location. It helps users stay informed about prayer times throughout the day with a seamless and integrated experience.",
+  "uuid": "muadhin@mohamed-harby",
+  "shell-version": ["40", "41", "42", "43", "44", "45", "46"],
+  "version": "0.0.1"
+}
